@@ -14,7 +14,7 @@ I'm a fourth-year Physics student at Universidad Europea de Valencia (UEV), with
 
 ⚡ **Fun Facts:**
 - I play field hockey at a competitive level (currently with CD Giner de los Ríos). 🏑
-- I'm a big fan of cinema. 🎬
+- Super into cinema. 🎬
 - LEGO fan. 🧱
 
 📫 **How to reach me:** 

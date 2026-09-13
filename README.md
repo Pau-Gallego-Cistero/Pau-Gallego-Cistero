@@ -5,7 +5,6 @@ I'm a fourth-year Physics student at Universidad Europea de Valencia (UEV), with
 🔭 **What I'm currently doing:**
 - University Diploma (Título Propio) in Astrophysics and Cosmology at UEV.
 - Active member of the Science and Media Club.
-- Expanding my technical skills by learning new software tools and programming languages.
 - Working in a Final Degree project on nano-helices and ML.
 
 💻 **My Background & Skills:**

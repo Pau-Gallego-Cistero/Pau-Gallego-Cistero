@@ -8,7 +8,7 @@ I'm a fourth-year Physics student at Universidad Europea de Valencia (UEV), with
 - Working in a Final Degree project on nano-helices and ML.
 
 💻 **My Background & Skills:**
-- **Coding:** Python, LaTeX (Scientific Typesetting), C++, Wolfram Mathematica, SQL.
+- **Coding:** Python, LaTeX (Scientific Typesetting), Wolfram Mathematica, C++, SQL.
 - **Suport tools:** Dialux (Lighting Simulation), Adobe Photoshop, Adobe Premier, Gimp, Excel.
 - **Languages:** Native in Catalan and Spanish, Fluent (C1) in English, and currently learning German.
 

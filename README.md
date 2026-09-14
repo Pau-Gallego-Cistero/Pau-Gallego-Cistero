@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Pau Gallego Cisteró
+# Hi there! I'm Pau Gallego Cisteró
 
 I'm a fourth-year Physics student at Universidad Europea de Valencia (UEV), with a strong vocation for science and continuous learning. 
 

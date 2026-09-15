@@ -9,7 +9,7 @@ I'm a fourth-year Physics student at Universidad Europea de Valencia (UEV), with
 
 💻 **My Background & Skills:**
 - **Coding:** Python, LaTeX (Scientific Typesetting), Wolfram Mathematica, C++, SQL.
-- **Suport tools:** Dialux (Lighting Simulation), Adobe Photoshop, Adobe Premier, Gimp, Excel.
+- **Suport tools:** Adobe Photoshop, Adobe Premier, Gimp, Dialux (Lighting Simulation), Excel.
 - **Languages:** Native in Catalan and Spanish, Fluent (C1) in English, and currently learning German.
 
 ⚡ **More about me:**

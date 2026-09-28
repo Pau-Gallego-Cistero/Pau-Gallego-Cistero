@@ -10,7 +10,7 @@ I'm a fourth-year Physics student at Universidad Europea de Valencia (UEV), with
 💻 **My Background & Skills:**
 - **Coding:** Python, LaTeX (Scientific Typesetting), Wolfram Mathematica, C++, SQL.
 - **Suport tools:** Adobe Photoshop, Adobe Premier, Gimp, Dialux (Lighting Simulation), Excel.
-- **Languages:** Native in Catalan and Spanish, Fluent (C1) in English, and currently learning German.
+- **Languages:** Native in Catalan and Spanish, Fluent (C1) in English, and Elementary level German.
 
 ⚡ **More about me:**
 - I play field hockey at a competitive level (currently with CD Giner de los Ríos). 🏑

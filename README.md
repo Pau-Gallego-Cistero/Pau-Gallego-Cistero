@@ -13,7 +13,7 @@ I'm a fourth-year Physics student at Universidad Europea de Valencia (UEV), with
 - **Languages:** Native in Catalan and Spanish, Fluent (C1) in English, and Elementary level German.
 
 ⚡ **More about me:**
-- I play field hockey at a competitive level (currently with CD Giner de los Ríos). 🏑
+- I play field hockey at a national level (currently with CD Giner de los Ríos). 🏑
 - Super into cinema. 🎬
 - LEGO fan. 🧱
 
